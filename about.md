@@ -2,8 +2,6 @@
 layout: page
 title: About
 ---
-<br/>
-<img src="/assets/profile.jpg" alt="me" style="width: 200px;"/>
 
 I'm Abhishek Singh, a 18 year old high scool student in India.
 
