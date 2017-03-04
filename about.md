@@ -2,15 +2,32 @@
 layout: page
 title: About
 ---
+<br/>
+<img src="/assets/profile.jpg" alt="me" style="width: 200px;"/>
 
-Hello.
+I'm Abhishek Singh, a 18 year old high scool student in India.
 
-I'm Abhishek, a 18 year old high school student residing in India.
+I like to code a lot. Some projects that I've made:
 
-I like to code. I've made some good stuff, which you can check out on my Github.
+1. A Recreation of 'Snake' for CLI
+2. Tic-Tac-Toe (Underwhelming, I'm aware of it)
+3. The popular game '2048' in CLI
 
-I like to read a lot. Mostly nonfiction and no self-help if I can help it. I love Vonnegut.
+I also program competitively. The solutions to some problems can be found [here](https://github.com/databhishek/competitive).
 
-I also play the guitar, sketch, solve the Rubik's cube, debate, quiz, watch Silicon Valley and worry about the future as part of my hobbies. Kind of interested in linguistics.
+Other than that, I'm proficient at playing the guitar, public speaking and solving the Rubik's Cube (fastest time of 32.47).
 
-If you have feedback, want to chat or collaborate on something amazing, just hit me up on [email](mailto:abhi.aryan98@gmail.com)!
+_Some of my favorite books_:
+
+* [Slaughterhouse-Five by Kurt Vonnegut](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6)
+
+* [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1442394935)
+
+* [Moonwalking with Einstein by Joshua Foer](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)
+
+* [Beacon 23 by Hugh Howey](https://www.amazon.com/Beacon-23-Complete-Hugh-Howey-ebook/dp/B0151HYRCS)
+
+If you have feedback, want to chat or collaborate on something, hit me up on [email](mailto: abhi.aryan98@gmail.com).
+
+Thank you for reading!
+

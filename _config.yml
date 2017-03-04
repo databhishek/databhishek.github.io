@@ -1,29 +1,27 @@
-
-
 # Permalinks
-permalink:        pretty
+permalink:  pretty
 
 # Setup
-title:            Abhishek Singh
-tagline:          'I make mistakes.'
-description:      'Coder, Problem Solver, Amateur Linguist. I like to build cool stuff.'
-url:              http://databhishek.github.io
-baseurl:          /
+title:  Abhishek Singh
+tagline:  'Learner'
+description:  'Coder, Problem Solver, Amateur Linguist. I like to build cool stuff.'
+url:  http://databhishek.github.io
+baseurl:  /
 
 author:
-  name:           'Abhishek Singh'
-  url:            https://twitter.com/databhishek
+  name: 'Abhishek Singh'
+  url:  https://twitter.com/databhishek
 
-paginate:         1
+paginate: 1
 
 gems:
   - jekyll-paginate
 
 # Custom vars
-version:          2.1.0
+version:  2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/poole/hyde
   
 kramdown:
   input: GFM
