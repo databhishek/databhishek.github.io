@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Abhishek Singh
+tagline:          'I make mistakes.'
+description:      'Coder, Problem Solver, Amateur Linguist. I like to build cool stuff.'
+url:              http://databhishek.github.io
+baseurl:          /
+
+author:
+  name:           'Abhishek Singh'
+  url:            https://twitter.com/databhishek
+
+paginate:         1
+
+gems:
+  - jekyll-paginate
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
