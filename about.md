@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm Abhishek Singh, a 18 year old high scool student in India.
+I'm Abhishek Singh, an 18-year-old high school student in India.
 
 I like to code a lot. Some projects that I've made:
 
@@ -15,7 +15,7 @@ I also program competitively. The solutions to some problems can be found [here]
 
 Other than that, I'm proficient at playing the guitar, public speaking and solving the Rubik's Cube (fastest time of 32.47).
 
-_Some of my favorite books_:
+_Some of my favourite books_:
 
 * [Slaughterhouse-Five by Kurt Vonnegut](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6)
 
@@ -28,4 +28,3 @@ _Some of my favorite books_:
 If you have feedback, want to chat or collaborate on something, hit me up on [email](mailto: abhi.aryan98@gmail.com).
 
 Thank you for reading!
-
