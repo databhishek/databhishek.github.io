@@ -75,6 +75,12 @@ html {
   color: #fff;
 }
 
+/* Sidebar Description */
+.sidebar p {
+  font-size: 1rem;
+}
+
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
