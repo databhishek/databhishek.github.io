@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2017-03-10T20:19:46+05:30</updated>
+<updated>2017-03-10T20:46:43+05:30</updated>
 <id>http://localhost:4000/</id>
 <title>Abhishek Singh</title>
 <subtitle>Problem Solver</subtitle>
@@ -13,7 +13,9 @@
 <published>2016-05-09T00:00:00+05:30</published>
 <updated>2016-05-09T00:00:00+05:30</updated>
 <id>http://localhost:4000/metro</id>
-<content type="html" xml:base="http://localhost:4000/metro/">&lt;p&gt;It was around 6:30 PM when I reached the station. The day seemed to be coming down slowly as I heaved my backpack through the security checkpoint, up the stairs and into the metro.&lt;/p&gt;
+<content type="html" xml:base="http://localhost:4000/metro/">&lt;p&gt;For a while, anyway.&lt;/p&gt;
+
+&lt;p&gt;It was around 6:30 PM when I reached the station. The day seemed to be coming down slowly as I heaved my backpack through the security checkpoint, up the stairs and into the metro.&lt;/p&gt;
 
 &lt;p&gt;With no seats being available, (which is the usual case) I stood leaning on the glass that bordered a row of seats, near the door. Soon enough, the voice chimed, and the doors went shut.&lt;/p&gt;
 
@@ -80,7 +82,7 @@
 <author>
 <name>Abhishek Singh</name>
 </author>
-<summary>The hilarious account of a metro snag. Based on a true story.</summary>
+<summary>For a while, anyway.</summary>
 </entry>
 <entry>
 <title>Clocks</title>
@@ -175,7 +177,7 @@
 <author>
 <name>Abhishek Singh</name>
 </author>
-<summary>Kevin fucks up. A work of fiction.</summary>
+<summary>Tick tock, tick tock.</summary>
 </entry>
 <entry>
 <title>Hello, World!</title>
@@ -192,6 +194,6 @@
 <author>
 <name>Abhishek Singh</name>
 </author>
-<summary>Hey.</summary>
+<summary>Hey!</summary>
 </entry>
 </feed>
