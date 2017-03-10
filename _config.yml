@@ -1,40 +1,17 @@
-### your site title here
-
+# Site settings
 title: Abhishek Singh
-baseurl:  # name of the repository
+description: >
+    Hello. My name is Abhishek Singh. I like to code, play the guitar and watch Silicon Valley.
+author: Abhishek Singh
 email: abhi.aryan98@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://databhishek.github.io" # the base hostname & protocol for your site
+twitter_username: databhishek
+github_username:  databhishek
 
-
-highlighter: rouge
+# Build settings
+include: [_pages]
 markdown: kramdown
-### exclude the instructions / write-up in the README.md
-
-
-# Tracker
-analytics: UA-71070640-2
-
-# Comments
-disqus-shortname: databhishek
-
-
-#optimization
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-  
-
+permalink: /:year/:month/:title
 sass:
- style: compressed
-
-exclude:
-- README.md
-
-
-gems: [jekyll-seo-tag, jekyll-paginate]
+    style: compressed
