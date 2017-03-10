@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abhishek Singh</title>
-    <description>Hello. My name is Abhishek Singh. I like to code, play the guitar and watch Silicon Valley.
-</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Mar 2017 00:39:57 +0530</pubDate>
-    <lastBuildDate>Sat, 11 Mar 2017 00:39:57 +0530</lastBuildDate>
-    <generator>Jekyll v3.4.0</generator>
-    
-      <item>
-        <title>The Day the Metro Stood Still</title>
-        <description>&lt;p&gt;For a while, anyway.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator>
+<link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+<updated>2017-03-11T01:06:58+05:30</updated>
+<id>http://localhost:4000/</id>
+<title>Abhishek Singh</title>
+<subtitle>High School Student, India.</subtitle>
+<entry>
+<title>The Day the Metro Stood Still</title>
+<link href="http://localhost:4000/metro/" rel="alternate" type="text/html" title="The Day the Metro Stood Still" />
+<published>2016-05-09T00:00:00+05:30</published>
+<updated>2016-05-09T00:00:00+05:30</updated>
+<id>http://localhost:4000/metro</id>
+<content type="html" xml:base="http://localhost:4000/metro/">&lt;p&gt;For a while, anyway.&lt;/p&gt;
 
 &lt;p&gt;It was around 6:30 PM when I reached the station. The day seemed to be coming down slowly as I heaved my backpack through the security checkpoint, up the stairs and into the metro.&lt;/p&gt;
 
@@ -77,17 +78,19 @@
 &lt;p&gt;But I don’t know. I was in the car, and a tiring journey was now over. I felt momentary pity for them as I leaned back and dozed off.&lt;/p&gt;
 
 &lt;p&gt;(This is an exaggerated account of the 8th July 2015 minor metro snag that occurred when a metro stopped due to a problem in the electrical lines.)&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 May 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/05/metro</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/05/metro</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Clocks</title>
-        <description>&lt;p&gt;Tick tock, tick tock.&lt;/p&gt;
+</content>
+<author>
+<name>Abhishek Singh</name>
+</author>
+<summary>For a while, anyway.</summary>
+</entry>
+<entry>
+<title>Clocks</title>
+<link href="http://localhost:4000/clocks/" rel="alternate" type="text/html" title="Clocks" />
+<published>2016-04-15T00:00:00+05:30</published>
+<updated>2016-04-15T00:00:00+05:30</updated>
+<id>http://localhost:4000/clocks</id>
+<content type="html" xml:base="http://localhost:4000/clocks/">&lt;p&gt;Tick tock, tick tock.&lt;/p&gt;
 
 &lt;p&gt;Kevin got up from his chair, keeping the book aside. It was time for sleep. He checked the clock; it was 1:43 AM. No time to be awake. He turned the lamp off, and entered the bed, closing his eyes, losing his consciousness slowly.&lt;/p&gt;
 
@@ -170,28 +173,27 @@
 &lt;p&gt;Tick tock, tick tock.&lt;/p&gt;
 
 &lt;p&gt;And he pressed snooze. It became quiet again. Kevin went to sleep.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Apr 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/04/clocks</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/clocks</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hello, World!</title>
-        <description>&lt;p&gt;Hey!&lt;/p&gt;
+</content>
+<author>
+<name>Abhishek Singh</name>
+</author>
+<summary>Tick tock, tick tock.</summary>
+</entry>
+<entry>
+<title>Hello, World!</title>
+<link href="http://localhost:4000/hello/" rel="alternate" type="text/html" title="Hello, World!" />
+<published>2016-01-01T00:00:00+05:30</published>
+<updated>2016-01-01T00:00:00+05:30</updated>
+<id>http://localhost:4000/hello</id>
+<content type="html" xml:base="http://localhost:4000/hello/">&lt;p&gt;Hey!&lt;/p&gt;
 
 &lt;p&gt;My name’s Abhishek.&lt;/p&gt;
 
 &lt;p&gt;Don’t know what else to say for my first post so, hello, I guess.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/01/hello</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/01/hello</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+</content>
+<author>
+<name>Abhishek Singh</name>
+</author>
+<summary>Hey!</summary>
+</entry>
+</feed>
