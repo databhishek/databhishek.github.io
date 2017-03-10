@@ -7,7 +7,7 @@ author: Abhishek Singh
 
 
 
-Clickbait exists in more subtle ways than you can notice. {% include youtubePlayer.html id=5-O2n8FO6Is %} This is the clear version of it. It’s right there in front of you, and you know it.
+Clickbait exists in more subtle ways than you can notice. {% include youtubePlayer.html id="5-O2n8FO6Is" %} This is the clear version of it. It’s right there in front of you, and you know it.
 
 Not everything is so in-your-face, though. Vague headlines where the content has little to no relation the headline itself are the norm these days.
 
