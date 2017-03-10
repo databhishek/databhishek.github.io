@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2017-03-10T15:20:47+05:30</updated>
+<updated>2017-03-10T15:51:45+05:30</updated>
 <id>http://localhost:4000/</id>
 <title>Abhishek Singh</title>
 <subtitle>Problem Solver</subtitle>
@@ -13,7 +13,11 @@
 <published>2016-10-03T00:00:00+05:30</published>
 <updated>2016-10-03T00:00:00+05:30</updated>
 <id>http://localhost:4000/clickbait</id>
-<content type="html" xml:base="http://localhost:4000/clickbait/">&lt;p&gt;Clickbait exists in more subtle ways than you can notice. {% include youtubePlayer.html id=”5-O2n8FO6Is” %} This is the clear version of it. It’s right there in front of you, and you know it.&lt;/p&gt;
+<content type="html" xml:base="http://localhost:4000/clickbait/">&lt;p&gt;Clickbait exists in more subtle ways than you can notice.&lt;/p&gt;
+&lt;div class=&quot;iframe_container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/5-O2n8FO6Is&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt; &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;This is the clear version of it. It’s right there in front of you, and you know it.&lt;/p&gt;
 
 &lt;p&gt;Not everything is so in-your-face, though. Vague headlines where the content has little to no relation the headline itself are the norm these days.&lt;/p&gt;
 
@@ -38,7 +42,7 @@
 <author>
 <name>Abhishek Singh</name>
 </author>
-<summary>Clickbait exists in more subtle ways than you can notice. &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5-O2n8FO6Is&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt; This is the clear version of it. It’s right there in front of you, and you know it.</summary>
+<summary>Clickbait exists in more subtle ways than you can notice.   This is the clear version of it. It’s right there in front of you, and you know it.</summary>
 </entry>
 <entry>
 <title>Clocks</title>
