@@ -8,7 +8,7 @@ I'm Abhishek Singh, an 18-year-old high school student in India.
 
 In my free time, you can find me [programming](https://github.com/databhishek), speedcubing or playing the guitar. Maybe all of those together.
 
-If you like to watch [Silicon Valley](www.hbo.com/silicon-valley), we're instant best-friends.
+If you like to watch [Silicon Valley](http://www.hbo.com/silicon-valley), we're instant best-friends.
 
 Here are a few books I love.
 * [Slaughterhouse-Five by Kurt Vonnegut](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6)
