@@ -15,7 +15,7 @@ Here are a few books I love.
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1442394935)
 * [Moonwalking with Einstein by Joshua Foer](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)
 * [Beacon 23 by Hugh Howey](https://www.amazon.com/Beacon-23-Complete-Hugh-Howey-ebook/dp/B0151HYRCS)
-* [The Soul of A New Machine by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977)
+* [The Soul of a New Machine by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977)
 
 ## Contact
 [abhi.aryan98@gmail.com](mailto:abhi.aryan98@gmail.com)
