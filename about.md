@@ -1,34 +1,20 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-<img src="/images/profile.jpg" alt="me" style="width: 200px;"/>
+I'm Abhishek Singh, an 18-year-old high school student in India.
 
-I'm Abhishek Singh, a 18 year old high scool student in India.
+In my free time, you can find me [programming](https://github.com/databhishek), speedcubing or playing the guitar. Maybe all of those together.
 
-I like to code a lot. Some projects that I've made:
+If you like to watch [Silicon Valley](www.hbo.com/silicon-valley), we're instant best-friends.
 
-1. A Recreation of 'Snake' for CLI
-2. Tic-Tac-Toe (Underwhelming, I'm aware of it)
-3. The popular game '2048' in CLI
-
-I also program competitively. The solutions to some problems can be found [here](https://github.com/databhishek/competitive).
-
-Other than that, I'm proficient at playing the guitar, public speaking and solving the Rubik's Cube (fastest time of 32.47).
-
-_Some of my favorite books_:
-
+Here are a few books I love.
 * [Slaughterhouse-Five by Kurt Vonnegut](https://www.amazon.com/Slaughterhouse-Five-Novel-Modern-Library-Novels-ebook/dp/B000SEGHT6)
-
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs-Walter-Isaacson/dp/1442394935)
-
 * [Moonwalking with Einstein by Joshua Foer](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)
-
 * [Beacon 23 by Hugh Howey](https://www.amazon.com/Beacon-23-Complete-Hugh-Howey-ebook/dp/B0151HYRCS)
+* [The Soul of A New Machine by Tracy Kidder](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977)
 
-If you have feedback, want to chat or collaborate on something, hit me up on [email](mailto: abhi.aryan98@gmail.com).
-
-Thank you for reading!
-
+## Contact
+[abhi.aryan98@gmail.com](mailto:abhi.aryan98@gmail.com)
