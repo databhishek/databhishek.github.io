@@ -1,23 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Your New Jekyll Site</title>
-    <description>Blogging about stuffs</description>
+    <title>Abhishek Singh</title>
+    <description>Musings of a polymath.</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>The Day the Metro Stood Still</title>
         
         
-          <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code class=&quot;highlighter-rouge&quot;&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;For a while, anyway.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 15:48:00 +0530</pubDate>
-        <link>http://localhost:4000/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 09 May 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2016/metro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/metro/</guid>
+      </item>
+    
+      <item>
+        <title>Clocks</title>
+        
+        
+          <description>&lt;p&gt;Tick tock, tick tock.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 15 Apr 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2016/clocks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/clocks/</guid>
+      </item>
+    
+      <item>
+        <title>Hello, World!</title>
+        
+        
+          <description>&lt;p&gt;Hey!&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2016/hello/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/hello/</guid>
       </item>
     
   </channel>
