@@ -10,6 +10,8 @@ In my free time, you can find me [programming](https://github.com/databhishek), 
 
 If you like to watch [Silicon Valley](http://www.hbo.com/silicon-valley), we're instant best-friends.
 
-Contact: [abhi.aryan98@gmail.com](mailto:abhi.aryan98@gmail.com)
+##Contact
+
+[abhi.aryan98@gmail.com](mailto:abhi.aryan98@gmail.com)
 
 {% include footer.html %}
