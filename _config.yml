@@ -1,6 +1,6 @@
 name: Abhishek Singh
 description: Musings of a polymath.
-meta_description: "I code and watch Silicon Valley."
+meta_description: "I code and watch Silicon Valley in my free time."
 
 aboutPage: true
 
@@ -12,7 +12,7 @@ paginate: 20
 baseurl: /
 domain_name: 'http://databhishek.github.io'
 google_analytics: 'UA-71070640-2'
-disqus: true
+disqus: false
 disqus_shortname: 'databhishek'
 
 # Details for the RSS feed generator
