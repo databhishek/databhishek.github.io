@@ -1,5 +1,5 @@
 name: Abhishek Singh
-description: I've done some questionable things in life
+description: I like to code.
 meta_description: SO IT GOES.
 
 markdown: kramdown
@@ -7,8 +7,9 @@ highlighter: pygments
 logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+disqus: databhishek
+domain_name: 'http://databhishek.github.io'
+google_analytics: 'UA-71070640-2'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
