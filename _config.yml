@@ -3,7 +3,7 @@ description: I like to code
 meta_description: SO IT GOES.
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /
