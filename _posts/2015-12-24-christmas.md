@@ -2,7 +2,6 @@
 layout: post
 title: Believe in The Magic
 excerpt: A poem on the magic of Christmas.
-thumbnail: /images/magic.jpg
 ---
 
 T’was the day of Christmas,

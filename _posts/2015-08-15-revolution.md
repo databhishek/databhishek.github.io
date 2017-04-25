@@ -2,7 +2,6 @@
 layout: post
 title: The Revolution
 excerpt: A poem on the valour of soldiers in war.
-thumbnail: /images/revolution.jpg
 ---
 
 We were the oppressed.
