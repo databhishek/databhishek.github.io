@@ -5,8 +5,8 @@
     <description>I've done some questionable things in life</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2017 21:59:47 +0530</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 21:59:47 +0530</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2017 22:06:30 +0530</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2017 22:06:30 +0530</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -111,21 +111,6 @@
       </item>
     
       <item>
-        <title>Hello, World!</title>
-        <description>&lt;p&gt;Hey!&lt;/p&gt;
-
-&lt;p&gt;My name’s Abhishek.&lt;/p&gt;
-
-&lt;p&gt;Don’t know what else to say for my first post so, hello, I guess.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jan 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000//2016/01/01/hello.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/01/01/hello.html</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>The Revolution</title>
         <description>&lt;p&gt;We were the oppressed.&lt;/p&gt;
 
@@ -158,6 +143,21 @@
         <pubDate>Sat, 15 Aug 2015 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//2015/08/15/revolution.html</link>
         <guid isPermaLink="true">http://localhost:4000//2015/08/15/revolution.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hello, World!</title>
+        <description>&lt;p&gt;Hey!&lt;/p&gt;
+
+&lt;p&gt;My name’s Abhishek.&lt;/p&gt;
+
+&lt;p&gt;Don’t know what else to say for my first post so, hello, I guess.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000//2015/01/01/hello.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/01/01/hello.html</guid>
         
         
       </item>
