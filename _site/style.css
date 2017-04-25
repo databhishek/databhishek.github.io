@@ -336,8 +336,8 @@ nav a {
   color: rgba(0, 0, 0, 0.8);
   line-height: 31px;
 }
-.post-preview .entry {
-  font-size: 1.063rem;
+.post-preview .entry p {
+  font-size: 1.125rem;
   color: rgba(0, 0, 0, 0.8);
   line-height: 27px;
 }
@@ -356,7 +356,7 @@ nav a {
 }
 @media screen and (max-width: 640px) {
   .post p {
-    font-size: 1.063em;
+    font-size: 1.000em;
     line-height: 1.625em;
   }
 }

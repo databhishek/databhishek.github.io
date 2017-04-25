@@ -299,9 +299,11 @@ nav {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
  
   .entry {
-    font-size: 1.063rem;
+   p {
+    font-size: 1.125rem;
     color: rgba(0, 0, 0, 0.8);
     line-height: 27px;
+   }
   }
 }
 
@@ -317,7 +319,7 @@ nav {
     line-height: 1.938rem;
     color: rgba(0, 0, 0, 0.8);
     @include mobile {
-      font-size: 1.063em;
+      font-size: 1.000em;
       line-height: 1.625em;
     }
   }
