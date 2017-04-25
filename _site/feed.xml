@@ -5,12 +5,12 @@
     <description>I've done some questionable things in life</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Apr 2017 22:06:30 +0530</pubDate>
-    <lastBuildDate>Tue, 25 Apr 2017 22:06:30 +0530</lastBuildDate>
+    <pubDate>Tue, 25 Apr 2017 22:17:34 +0530</pubDate>
+    <lastBuildDate>Tue, 25 Apr 2017 22:17:34 +0530</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
-        <title>Clocks</title>
+        <title>Clocks (Short Story)</title>
         <description>&lt;p&gt;Tick tock, tick tock.&lt;/p&gt;
 
 &lt;p&gt;Kevin got up from his chair, keeping the book aside. It was time for sleep. He checked the clock; it was 1:43 AM. No time to be awake.&lt;/p&gt;
@@ -111,7 +111,7 @@
       </item>
     
       <item>
-        <title>The Revolution</title>
+        <title>The Revolution (Poem)</title>
         <description>&lt;p&gt;We were the oppressed.&lt;/p&gt;
 
 &lt;p&gt;Thrown by the society, a mere fragment of broken glass shattered by the hopeless world. In a mere blink of the eyes, we vanished, torn and undone.&lt;/p&gt;
@@ -153,7 +153,9 @@
 
 &lt;p&gt;My name’s Abhishek.&lt;/p&gt;
 
-&lt;p&gt;Don’t know what else to say for my first post so, hello, I guess.&lt;/p&gt;
+&lt;p&gt;I’m currently a high-school student in India. I like to play basketball, code new things and watch movies. I used to play a lot of video games once.&lt;/p&gt;
+
+&lt;p&gt;Nice to meet you.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//2015/01/01/hello.html</link>

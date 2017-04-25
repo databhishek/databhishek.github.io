@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Revolution
+title: The Revolution (Poem)
+excerpt: A porm about war, soldiers and revolution.
 ---
-
-We were the oppressed.
+We were the oppressed. 
 
 Thrown by the society, a mere fragment of broken glass shattered by the hopeless world. In a mere blink of the eyes, we vanished, torn and undone.
 
