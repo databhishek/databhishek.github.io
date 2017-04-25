@@ -113,6 +113,7 @@ h4 {
 p {
   margin: 15px 0;
   font-family: serif;
+  font-size: 20px;
 }
 
 a {
@@ -196,7 +197,7 @@ img {
 }
 
 .masthead {
-  padding: 15px 0;
+  padding: 10px 0;
 }
 .masthead a {
   color: #fff;
@@ -208,9 +209,10 @@ img {
 }
 
 .site-avatar {
+  margin-top: 7px;
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 30px;
+  height: 30px;
   margin-right: 15px;
 }
 @media screen and (max-width: 640px) {
@@ -241,7 +243,7 @@ img {
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: 1.750rem;
+  font-size: 1.3rem;
   letter-spacing: 1px;
 }
 
@@ -258,7 +260,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px;
+  margin-top: 15px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
 }
@@ -314,6 +316,13 @@ nav a {
   position: relative;
   overflow: hidden;
 }
+@media screen and (max-width: 640px) {
+  .thumbnail {
+    float: top;
+    padding-left: 0;
+    horizontal-align: center;
+  }
+}
 
 .post-preview {
   display: block;
@@ -335,6 +344,7 @@ nav a {
 
 .post {
   max-width: 693px;
+  margin: 0 auto;
 }
 .post h1 {
   font-size: 3.500rem;
