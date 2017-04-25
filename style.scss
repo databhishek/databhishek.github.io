@@ -276,6 +276,11 @@ nav {
   vertical-align: middle;
   position: relative;
   overflow: hidden;
+  @include mobile {
+    float: top;
+    padding-left: 0;
+    horizontal-align: center;
+  }
 
 }
 
