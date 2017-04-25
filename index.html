@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post-preview" style="align: center;">
+      <div class="thumbnail">
+        <img src="{{ post.thumbnail | prepend: site.baseurl }}">
+      </div> 
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      
+        
+        
+      <div class="date" style="font-size: 15px";>
+          {{ post.date | date: "%B %e, %Y" }}
+      </div>
+      
+      
+
+      <div class="entry">
+        <p>{{ post.excerpt }}</p>
+      </div>
+      
+    </article>
+  {% endfor %}
+</div>
