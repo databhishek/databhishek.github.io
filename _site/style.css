@@ -330,16 +330,12 @@ nav a {
   color: rgba(0, 0, 0, 0.8);
   line-height: 27px;
 }
-.post-preview .entry p {
-  width: 600px;
-}
 
 .post h1 {
   font-size: 56px;
 }
 .post p {
   font-size: 20px;
-  width: 693px;
   line-height: 31px;
   color: rgba(0, 0, 0, 0.8);
 }
