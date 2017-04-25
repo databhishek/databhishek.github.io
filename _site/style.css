@@ -190,7 +190,7 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 20px;
+  margin-bottom: 1.250rem;
   background-color: #0f2e3d;
   border-bottom: 1px solid;
 }
@@ -241,7 +241,7 @@ img {
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 1.750rem;
   letter-spacing: 1px;
 }
 
@@ -285,10 +285,10 @@ nav a {
 }
 
 .page h1 {
-  font-size: 56px;
+  font-size: 3.500rem;
 }
 .page .entry {
-  font-size: 20px;
+  font-size: 1.250rem;
 }
 
 .posts > .post {
@@ -297,7 +297,7 @@ nav a {
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
+  padding-bottom: 1rem;
   border-bottom: none;
 }
 
@@ -313,41 +313,41 @@ nav a {
 
 .post-preview {
   display: block;
-  padding-bottom: 2em;
+  padding-bottom: 1rem;
   overflow: hidden;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .post-preview h1 {
-  font-size: 36px;
+  font-size: 2.250rem;
   color: rgba(0, 0, 0, 0.8);
-  line-height: 36px;
+  line-height: 31px;
 }
 .post-preview .entry {
-  font-size: 17px;
+  font-size: 1.063rem;
   color: rgba(0, 0, 0, 0.8);
   line-height: 27px;
 }
 
 .post h1 {
-  font-size: 56px;
+  font-size: 3.500rem;
 }
 .post p {
-  font-size: 20px;
-  line-height: 31px;
+  font-size: 1.250rem;
+  line-height: 1.938rem;
   color: rgba(0, 0, 0, 0.8);
 }
 @media screen and (max-width: 640px) {
   .post p {
-    font-size: 17px;
-    line-height: 26px;
+    font-size: 1.063em;
+    line-height: 1.625em;
   }
 }
 .post blockquote {
-  margin: 1.8em .8em;
+  margin: 1.8rem .8rem;
   border-left: 2px solid #666;
   padding: 0.1em 1em;
   color: #666;
-  font-size: 22px;
+  font-size: 1.375rem;
   font-style: italic;
 }
 .post .comments {
@@ -358,11 +358,11 @@ nav a {
   font-size: 15px;
 }
 .post .entry {
-  font-size: 17px;
+  font-size: 1.063rem;
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 3.125rem;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #0f2e3d;
