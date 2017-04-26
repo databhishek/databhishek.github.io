@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Revolution (Poem)
+title: The Revolution
 excerpt: A porm about war, soldiers and revolution.
 ---
 We were the oppressed. 
