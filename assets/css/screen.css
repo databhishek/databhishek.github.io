@@ -760,6 +760,7 @@ body:not(.post-template) .post-title {
 
 .post-title a {
     text-decoration: none;
+    color: #3366BB;
 }
 
 .post-excerpt p {

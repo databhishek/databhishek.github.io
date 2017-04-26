@@ -713,6 +713,16 @@ margin on the iframe, cause it breaks stuff. */
     animation-delay: 0.1s;
 }
 
+h2.post-tag {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 12px;
+    display: block;
+    text-align: center;
+    position: relative;
+    width: 40%;
+    margin: 4rem auto;
+}
+
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
@@ -750,6 +760,7 @@ body:not(.post-template) .post-title {
 
 .post-title a {
     text-decoration: none;
+    color: #3366BB;
 }
 
 .post-excerpt p {
