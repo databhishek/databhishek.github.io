@@ -11,4 +11,5 @@ If you like to watch [Silicon Valley](http://www.hbo.com/silicon-valley), we're 
 
 ## Contact
 
-[abhi.aryan98@gmail.com](mailto:abhi.aryan98@gmail.com)
+Email: abhi.aryan98 [at] gmail [dot] com
+Twitter: [databhishek](https://twitter.com/databhishek)
