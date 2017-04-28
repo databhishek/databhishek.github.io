@@ -107,7 +107,7 @@ body {
 }
 
 .post__title {
-  color: #0645AD;
+  color: rgba(0, 0, 0, .8);
   font-size: 1.8em;
 }
 
