@@ -79,7 +79,7 @@ body {
 #header__nav li {
   float: left;
   padding: 13px 20px 15px 0;
-  color: rgba(0, 0, 0, .44);
+  color: #3366BB;
 }
 
 #header__nav li a:hover {
@@ -105,7 +105,7 @@ body {
 }
 
 .post__title {
-  color: rgba(0, 0, 0, .8);
+  color: #0645AD;
   font-size: 1.8em;
 }
 
