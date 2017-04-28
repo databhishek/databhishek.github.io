@@ -4,10 +4,10 @@
     <title>Abhishek Singh</title>
     <description>I've done some questionable things in life.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Apr 2017 16:03:36 +0530</pubDate>
-    <lastBuildDate>Fri, 28 Apr 2017 16:03:36 +0530</lastBuildDate>
+    <link>http://databhishek.github.io/</link>
+    <atom:link href="http://databhishek.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Apr 2017 16:37:21 +0530</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2017 16:37:21 +0530</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -99,8 +99,8 @@
 &lt;p&gt;And he pressed snooze. It became quiet again. Kevin went to sleep.&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Apr 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/clocks/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/clocks/</guid>
+        <link>http://databhishek.github.io/2016/clocks/</link>
+        <guid isPermaLink="true">http://databhishek.github.io/2016/clocks/</guid>
         
         
       </item>
@@ -136,8 +136,8 @@
 &lt;p&gt;And we, are forever.&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2015/revolution/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/revolution/</guid>
+        <link>http://databhishek.github.io/2015/revolution/</link>
+        <guid isPermaLink="true">http://databhishek.github.io/2015/revolution/</guid>
         
         
       </item>
@@ -153,8 +153,8 @@
 &lt;p&gt;Nice to meet you.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2015/hello/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/hello/</guid>
+        <link>http://databhishek.github.io/2015/hello/</link>
+        <guid isPermaLink="true">http://databhishek.github.io/2015/hello/</guid>
         
         
       </item>
