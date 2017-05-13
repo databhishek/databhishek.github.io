@@ -24,7 +24,7 @@ In my free time, you can find me [programming](https://github.com/databhishek), 
 <h2> Interests </h2>
 
 <h3> Academics </h3>
-My primary motive is solving hard problems that interest me and I am technology agnostic in this regard. I'm highly interested in statistics and probablity and am looking to pursue data science in the coming years and hopefully find myself in the field of machine learning.
+My primary motive is solving hard problems that interest me and I am technology agnostic in this regard. I'm highly interested in statistics and probability and am looking to pursue data science in the coming years and hopefully find myself in the field of machine learning.
 
 
 <h3> Movies & TV </h3>
@@ -50,7 +50,7 @@ I don't listen to music when I'm programming but sometimes I'll put on music wit
 
 <h3> Miscellaneous </h3>
 
-I can solve the 3x3 cube in about 40 seconds. I use the Fridrich method but I cannot seem remember the OLL algorithms for my life, so I have a lot of scope for improvement.
+I can solve the 3x3 cube in about 40 seconds. I use the Fridrich method but I cannot seem to remember the OLL algorithms for my life, so I have a lot of scope for improvement.
 
 I am also a novice at the guitar and usually just play the few songs that I know, most of which are theme songs from various shows and movies.
 
