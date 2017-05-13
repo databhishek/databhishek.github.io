@@ -30,6 +30,9 @@ navigation:
   - title: Articles
     url: /articles/
     desc: Stuff I Write About
+  - title: Books
+    url: /books/
+    desc: Books I Read
   - title: About
     url: /about/
     desc: About Me

@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! My name is Abhishek Singh.
+  Hi! I'm Abhishek Singh, a high school [student](/about) from India.
   
-  I'm a high school student from India. I really like computers and love teaching them to do things. Aspiring data scientist. I like to <a href="{{ site.baseurl }}/articles">write</a> about technology and sometimes write short stories as well.
+  When I'm not [programming](https://github.com/databhishek), you can find me playing the guitar, reading [books](/books) or solving the Rubik's cube.
   
-  Very nice to meet you!
 </div>
