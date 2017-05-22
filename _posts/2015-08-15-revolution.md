@@ -3,6 +3,9 @@ layout: post
 title: The Revolution
 excerpt: A poem on war.
 ---
+A poem about war and freedom.
+
+
 We were the oppressed. 
 
 Thrown by the society, a mere fragment of broken glass shattered by the hopeless world. In a mere blink of the eyes, we vanished, torn and undone.

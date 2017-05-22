@@ -3,10 +3,10 @@
 <generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-<updated>2017-05-22T22:40:49+05:30</updated>
+<updated>2017-05-22T23:10:02+05:30</updated>
 <id>http://localhost:4000/</id>
 <title>Abhishek Singh</title>
-<subtitle>ramblings of a CS student</subtitle>
+<subtitle>Musings of a Computer Science student</subtitle>
 <entry>
 <title>Clocks</title>
 <link href="http://localhost:4000/clocks/" rel="alternate" type="text/html" title="Clocks" />
