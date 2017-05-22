@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Revolution
-excerpt: A poem on war.
 ---
 A poem about war and freedom.
 
