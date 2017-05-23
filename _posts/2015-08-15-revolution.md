@@ -2,8 +2,9 @@
 layout: post
 title: The Revolution
 ---
-A poem about war and freedom.
+This is a poem I wrote on Independence day in 2015. It's about war, freedom and the legacy of people who fought for it. I'm proud of this one.
 
+***
 
 We were the oppressed. 
 
