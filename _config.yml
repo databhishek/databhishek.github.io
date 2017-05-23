@@ -20,4 +20,4 @@ navigation:
 - text: Archives
   url: /archives/
 - text: RSS
-  url: /feed.xml/
+  url: /feed.xml
