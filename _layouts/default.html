@@ -1,0 +1,11 @@
+{% include head.html %}
+{% include navigation.html %}
+<section id="main">
+	{{ content }}
+</section>
+{% include footer.html %}
+{% if site.tracking_id %}
+	{% include analytics.html %}
+{% endif %}
+</body>
+</html>
