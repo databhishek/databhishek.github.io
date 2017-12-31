@@ -1,7 +1,7 @@
 # Site settings
 title: "Abhishek Singh"
 description: > 
-  I do stuff and write about it.
+  Musings of a CS student.
 
 author: Abhishek Singh
 email: abhi.aryan98@gmail.com
@@ -9,7 +9,7 @@ twitter_username: databhishek
 github_username:  databhishek
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://abhisheksingh.me" # the base hostname & protocol for your site
+url: "https://databhishek.github.io" # the base hostname & protocol for your site
 
 google_analytics_id: UA-71070640-2
 disqus_id: databhishek
