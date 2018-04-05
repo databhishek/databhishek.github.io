@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Revolution"
-description: "A poem I wrote on Independence day."
+title: 'The Revolution'
+description: A poem I wrote on Independence day.
 date: 2015-08-15
 tags: poem
 comments: true
