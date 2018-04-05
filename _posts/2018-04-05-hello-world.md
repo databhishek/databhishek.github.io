@@ -2,11 +2,13 @@
 layout: post
 title: 'Hello, World!'
 description: Obligatory introduction.
-date: {}
+date: 2018-04-05
 comments: true
-published: true
 ---
 ```c++
+#include <iostream>
+using namespace std;
+
 int main() {
   cout << "Hello, World!";
   return 0;
