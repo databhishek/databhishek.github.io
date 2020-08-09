@@ -9,7 +9,7 @@ twitter_username: databhishek
 github_username: databhishek
 
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://databhishek.me' # the base hostname & protocol for your site
+url: 'https://abhishek.cc' # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
