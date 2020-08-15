@@ -1,8 +1,7 @@
 <footer class="c-page__footer">
     <p>&copy; {{ 'now' | date: '%Y' }}</p>
-    <p>{% if site.twitter_username %}<a class="social-icons__link" title="Twitter" href="https://twitter.com/{{ site.twitter_username }}" target="_blank" rel="noopener">
-    <div class="social-icons__icon" style="background-image: url('/assets/svg/twitter.svg')"></div></a><span
-            class="u-separate"></span>{% endif %}{% if site.github_username %}<a class="social-icons__link" title="Twitter"
-            href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener"><div class="social-icons__icon" style="background-image: url('/assets/svg/github.svg')"></div></a><span class="u-separate"></span>{% endif %}<a
+    <p>{% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a><span
+            class="u-separate"></span>{% endif %}{% if site.github_username %}<a
+            href="https://github.com/{{ site.github_username }}">Github</a><span class="u-separate"></span>{% endif %}<a
             href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 </footer>
