@@ -4,4 +4,6 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 .ruby-version
+.bundle
+vendor/*
 Gemfile.lock
