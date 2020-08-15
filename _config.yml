@@ -24,5 +24,3 @@ permalink: /:title
 
 sass:
   style: compressed
-
-exclude: [vendor]
