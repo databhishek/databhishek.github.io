@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ganges Epiphany."
+title: "The Ganges Epiphany"
 date: "2014-12-08"
 ---
 

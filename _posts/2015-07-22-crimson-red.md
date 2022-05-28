@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crimson Red."
+title: "Crimson Red"
 date: "2015-07-22"
 ---
 

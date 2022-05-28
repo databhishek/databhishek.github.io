@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hue Of War."
+title: "The Hue Of War"
 date: "2015-07-25"
 ---
 

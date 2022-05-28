@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dying Light -  A Short Story"
+title: "Dying Light"
 date: "2014-02-06"
 ---
 

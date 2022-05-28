@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Believe In The Magic."
+title: "Believe In The Magic"
 date: "2014-12-25"
 ---
 
