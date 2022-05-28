@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Year's Delights."
+title: "A New Year's Delights"
 date: "2014-12-31"
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Holes & Revelations."
+title: "Black Holes & Revelations"
 date: "2014-12-13"
 ---
 
